@@ -23,7 +23,7 @@ Mi proyecto principal ahora mismo es un **Ecosistema de Gestión para Concesiona
 * **Infraestructura:** Docker, Git, Linux (Bash), SQL.
 
 ### 📫 Hablemos
-* **LinkedIn:** [Tu enlace de LinkedIn]
+* **LinkedIn:** https://www.linkedin.com/in/frank-villar-redondo/
 * **Email:** frankvillarredondo@gmail.com
 
 ---
